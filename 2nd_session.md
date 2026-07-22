@@ -42,3 +42,6 @@ By the use of this Fibonacci series, we can sketch the market for next day
 
 # Psychology 
 In the market, you losse money by greed and fear. It is often seen that the market will try to eat the premium up but may never touch the floor, similarly when the market moves in the predicted direction, it is very important that we have a set target, so that we do are not greedy. These practices are often termed as gambling 
+
+# Questions: 
+How are the premium at call and put decided and how does the fibonacci series on NIFTY 50 help us determine the levels at call and put 
